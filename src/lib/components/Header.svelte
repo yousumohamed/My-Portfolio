@@ -145,12 +145,12 @@
                 class:text-cyan-400={$activeSection === 'about'}
             >About</a>
 
-            <a
+            <!-- <a
                 href="/#certifications"
                 on:click={handleNavClick}
                 class="font-medium"
                 class:text-cyan-400={$activeSection === 'certifications'}
-            >Certifications</a>
+            >Certifications</a> -->
 
             <a
                 href="/#contact"

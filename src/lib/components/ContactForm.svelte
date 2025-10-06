@@ -20,10 +20,10 @@
 			});
 
 			if (response.ok) {
-				status = 'Success! Thank you for your message.';
+				status = 'Thanks! We Cntact You Soon.';
 				form.reset();
 			} else {
-				status = 'Error! Something went wrong. Please try again.';
+				status = 'Error! Something went wrong. Please try again. ';
 			}
 		} catch (error) {
 			status = 'Error! Could not send message. Please check your connection.';
@@ -67,6 +67,7 @@
 					placeholder="Yusuf@example.com"
 					required
 				/>
+				
 			</label>
 			<label class="block">
 				<span class="text-gray-700 dark:text-gray-300">Message</span>
@@ -78,7 +79,7 @@
 					required
 				></textarea>
 			</label>
-
+<br>
 			<div class="text-center">
 				<button
 					type="submit"

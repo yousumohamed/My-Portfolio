@@ -42,7 +42,7 @@
             <!-- Middle Section (Contact Info) -->
             <div class="flex flex-col items-center gap-2 text-sm font-bold">
                 <a
-                    href="mailto:khaledkariim2020@gmail.com"
+                    href="mailto:yousufmoha255@gmail.com"
                     class="flex items-center hover:text-cyan-400 transition-colors"
                 >
                     <svg

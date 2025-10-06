@@ -89,7 +89,7 @@
                 class="w-80 h-80 bg-gray-200 dark:bg-gray-700 rounded-lg shadow-xl overflow-hidden"
             >
                 <img
-                    src="src/lib/assets/ezgif-8735ea063a736b.png"
+                    src="/ezgif-8735ea063a736b.png"
                     alt="A portrait of Khalid"
                     class="w-full h-full object-cover"
                 />

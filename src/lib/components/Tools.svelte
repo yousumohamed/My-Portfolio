@@ -2,15 +2,15 @@
     // THIS IS YOUR NEW, EASY-TO-EDIT LIST!
     // Just add the name of the software and the path to its image.
     const tools = [
-        { name: "Premiere Pro", image: "src/lib/assets/AdobeImages/premiere.png" },
-        { name: "Lightroom", image: "src/lib/assets/AdobeImages/adobe-lightroom.png" },
-        { name: "Dreamweaver", image: "src/lib/assets/AdobeImages/dreamweaver.png" },
-        { name: "Illustrator", image: "src/lib/assets/AdobeImages/adobe-illustrator.png" },
-        { name: "Indesign", image: "src/lib/assets/AdobeImages/indesign.png" },
-        { name: "Photoshop", image: "src/lib/assets/AdobeImages/adobe-photoshop.png" },
-        { name: "After effects", image: "src/lib/assets/AdobeImages/after-effects (1).png" },
-        { name: "Dimension", image: "src/lib/assets/AdobeImages/dimension.png" }, 
-        { name: "Adobe", image: "src/lib/assets/AdobeImages/adobe.png" }, 
+        { name: "Premiere Pro", image: "/AdobeImages/premiere.png" },
+        { name: "Lightroom", image: "/AdobeImages/adobe-lightroom.png" },
+        { name: "Dreamweaver", image: "/AdobeImages/dreamweaver.png" },
+        { name: "Illustrator", image: "/AdobeImages/adobe-illustrator.png" },
+        { name: "Indesign", image: "/AdobeImages/indesign.png" },
+        { name: "Photoshop", image: "/AdobeImages/adobe-photoshop.png" },
+        { name: "After effects", image: "/AdobeImages/after-effects (1).png" },
+        { name: "Dimension", image: "/AdobeImages/dimension.png" }, 
+        { name: "Adobe", image: "/AdobeImages/adobe.png" }, 
     ];
 </script>
 
